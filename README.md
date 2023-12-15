@@ -13,6 +13,16 @@ The following **required** functionality is completed:
 - [/] Users are see a screen with three labels and a button
 - [/] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/e0788f982d674ff29a3b9f7c16767266">
+      <p>Library | Loom - 15 December 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e0788f982d674ff29a3b9f7c16767266">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e0788f982d674ff29a3b9f7c16767266-with-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 App: Whatsapp
 Able to edit sent messages
