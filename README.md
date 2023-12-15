@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/e0788f982d674ff29a3b9f7c16767266">
-      <p>Library | Loom - 15 December 2023 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/e0788f982d674ff29a3b9f7c16767266">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e0788f982d674ff29a3b9f7c16767266-with-play.gif">
